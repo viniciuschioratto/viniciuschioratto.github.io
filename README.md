@@ -1,8 +1,5 @@
-# Curriculum Vitae
-
 ## Table of Contents
 
-- [Contact Information](#contact-information)
 - [Professional Summary](#professional-summary)
 - [Skills](#skills)
 - [Work Experience](#work-experience)
@@ -12,18 +9,13 @@
 - [Awards and Honors](#awards-and-honors)
 - [Languages](#languages)
 - [Interests](#interests)
-
-## Contact Information
-
-- **Name**: Vinicius Marques Chioratto
-- **Email**: viniciusmchioratto@gmail.com
-- **Phone**: (351) 456-7890
-- **Github**: [viniciuschioratto](https://github.com/viniciuschioratto)
-- **LinkedIn**: [Vinicius Chioratto](https://www.linkedin.com/in/vinicius-chioratto)
+- [Contact Information](#contact-information)
 
 ## Professional Summary
 
-A brief summary of your professional background and career goals.
+I am a software engineer with a degree in computer science and more than 6 years of experience in software development with agile methodology. My background is in full-stack projects, working with different technologies in the back end and front end, but with emphasis on Java and React.
+
+I blend passion for new technologies with practical experience and as an adaptable Software Engineer, I'm adept at both team collaboration and solo problem-solving.
 
 ## Education
 
@@ -101,7 +93,10 @@ A brief summary of your professional background and career goals.
 
 ## Certifications
 
-- Certification Name, Issuing Organization, Date
+### Aws
+
+- **Certification**: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/76fcbcf4-b675-40cf-b62e-f1c27b97394e/linked_in_profile)
+- **Period**: 10/2022 - 10/2025
 
 ## Projects
 
@@ -116,7 +111,10 @@ A brief summary of your professional background and career goals.
 - Portuguese - Native
 - English - Advanced
 
-## Interests
+## Contact Information
 
-- Interest 1
-- Interest 2
+- **Name**: Vinicius Marques Chioratto
+- **Email**: viniciusmchioratto@gmail.com
+- **Phone**: (+351) 91352-9762
+- **Github**: [viniciuschioratto](https://github.com/viniciuschioratto)
+- **LinkedIn**: [Vinicius Chioratto](https://www.linkedin.com/in/vinicius-chioratto)
