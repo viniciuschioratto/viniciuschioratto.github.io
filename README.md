@@ -54,33 +54,33 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
 - **Period**: 04/2022 - 05/2024
 - **Location**: Remote for Minnesota, USA
 - **Responsibilities**:
-  - Collaborated with U.S.-based teams, enhancing global communication and product development skills.
-  - Addressed daily tech challenges, emphasizing agility and problem-solving.
-  - Spearheaded the development of a product available by over 500,000 trucks.
-  - Mastered a diverse tech stack: Java, Groovy, Spring Boot, NodeJS, NestJS, Docker, Kubernetes, AWS, Elasticsearch, MongoDB, and MySQL.
-  - Championed team collaboration, consistently delivering high-quality results exceeding customer expectations.
-  - The following video explain how the product works: [PACCAR OTA](https://youtu.be/RGaNOLW6mVM?si=yn6Szv0rXs7idXF0)
+  - Collaborated with U.S.-based teams, strengthening global communication skills and contributing to seamless product development across diverse time zones.
+  - Tackled daily technical challenges with a focus on agility, innovation, and effective problem-solving.
+  - Led the development of a product utilized by over 500,000 trucks, demonstrating impactful contributions to the transportation sector.
+  - Mastered a versatile tech stack, including Java, Groovy, Spring Boot, NodeJS, NestJS, Kafka, Docker, Kubernetes, AWS, Elasticsearch, MongoDB, and MySQL, enabling the delivery of robust and scalable solutions.
+  - Fostered team collaboration and cohesion, consistently delivering high-quality outcomes that exceeded customer expectations.
+  - A detailed explanation of the product's functionality can be seen in the [PACCAR OTA](https://youtu.be/RGaNOLW6mVM?si=yn6Szv0rXs7idXF0) video.
 
 ### Mid-level Software Engineer - Trimble Transportation
 
 - **Period**: 01/2021 - 04/2022
 - **Location**: Remote for Minnesota, USA
 - **Responsibilities**:
-  - Promoted experience with Kubernetes, Docker, and Amazon Web Services.
-  - Utilized advanced concepts and cutting-edge technologies to craft software, employing the most effective practices in software development.
-  - Represented the software engineering team during large and complex development projects.
-  - Collaborated with clients to define solution requirements.
-  - Provided guidance and mentored less-experienced staff members.
+  - Leveraged expertise in Kubernetes, Docker, and Amazon Web Services to enhance infrastructure scalability and efficiency.
+  - Applied advanced concepts and cutting-edge technologies to develop high-quality software, adhering to industry best practices in software development.
+  - Acted as a key representative of the software engineering team during large-scale and complex development projects, ensuring seamless communication and alignment with stakeholders.
+  - Partnered with clients to define solution requirements and translate business needs into technical deliverables.
+  - Provided mentorship and guidance to junior team members, fostering their professional growth and improving overall team performance.
 
 ### Junior Software Engineer - Trimble Transportation
 
 - **Period**: 04/2020 - 01/2021
 - **Location**: Remote for Minnesota, USA
 - **Responsibilities**:
-  - Collaborated with the team to analyze system solutions based on client requirements.
-  - Manipulated and implemented object-oriented programming models.
-  - Developed new features and fixed bugs.
-  - Assisted development of technical documentation and revised documentation.
+  - Collaborated with the team to analyze and design system solutions tailored to client requirements.
+  - Implemented and optimized object-oriented programming models to enhance system performance.
+  - Designed, developed, and maintained new features while identifying and resolving bugs to ensure system reliability.
+  - Contributed to the creation and revision of technical documentation, ensuring clarity and accuracy for development and maintenance purposes.
 
 ### Junior Software Engineer - MKX Websites
 
@@ -119,7 +119,7 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
 
 ### Medium
 
-- **Description**: This project is about a serie of articles I am writin on medium, where I can share my knwolongy and expirence with the community. The articles are about different subjects in the tecnology area.
+- **Description**: This project encompasses a collection of articles I'm writing for Medium, where I aim to share my expertise and insights with the broader community. These articles cover a diverse array of topics within the technology sector.
 - **Link**:
 
 ### Feitos para Viajar
