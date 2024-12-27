@@ -12,9 +12,7 @@
 
 ## Professional Summary
 
-I am a software engineer with a degree in computer science and more than 6 years of experience in software development with agile methodology. My background is in full-stack projects, working with different technologies in the back end and front end, but with emphasis on Java and React.
-
-I blend passion for new technologies with practical experience and as an adaptable Software Engineer, I'm adept at both team collaboration and solo problem-solving.
+I am a software engineer with a degree in Computer Science and over 6 years of experience in software development. My expertise lies in full-stack development, with a strong emphasis on back-end technologies such as Java, Spring Framework, and NodeJS, as well as front-end frameworks like React and Angular. I have a proven track record of delivering scalable and robust solutions, leveraging containerization tools like Docker and cloud platforms such as AWS to optimize performance and streamline deployments. My diverse experience enables me to adapt to various project requirements and drive technical excellence across the stack.
 
 ## Education
 
@@ -45,7 +43,11 @@ I blend passion for new technologies with practical experience and as an adaptab
 
 - **Period**: 06/2024 - currently
 - **Location**: Remote for Madrid, Spain
-- **Responsibilities**: As a tech lead ....
+- **Responsibilities**:
+  - Lead a team of 4 developers, delivering effective solutions to challenges and supporting the team in overcoming blockers.
+  - Migrate an internal bank product by implementing new technologies and adapting to updated business rules.
+  - Collaborate with the business team to define tasks and determine their implementation approach.
+  - Ensure development quality while introducing new approaches to enhance the development process.
 
 ### Senior Software Engineer - Trimble Transportation
 
@@ -124,16 +126,21 @@ I blend passion for new technologies with practical experience and as an adaptab
 
 - **Description**: I am passionate about traveling and love sharing my experiences and tips with fellow travelers. This passion led to the creation of **Feitos para Viajar**, a blog where I can share insights, stories, and practical advice to inspire and assist others on their journeys.
 - **Technologies used**: To build the website, I utilized a variety of technologies and frameworks. The frontend, developed with Next.js and React, is deployed on Vercel Cloud and incorporates Playwright and Testcontainers for robust automation testing. The backend is a Java 21 application deployed on AWS, leveraging serverless solutions such as API Gateway and Lambda functions for scalability and efficiency.
-- **Link**: https://www.feitosparaviajar.com.br/en
+- **Link**: [Feitos para Viajar](https://www.feitosparaviajar.com.br/en)
 - **Release**: January - 2024
 
 ## Languages
 
 - Portuguese - Native
 - English - Advanced
+- France - Beginner
 
 ## Contact Information
 
+- **Citizenship**:
+  - Italian
+  - Brazilian
+- **Address**: Street Conde de Campo Bello - Porto - Portugal
 - **Email**: viniciusmchioratto@gmail.com
 - **Phone**: (+351) 91352-9762
 - **Github**: [viniciuschioratto](https://github.com/viniciuschioratto)
