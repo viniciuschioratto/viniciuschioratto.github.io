@@ -52,6 +52,7 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
   - Migrate an internal bank product by implementing new technologies and adapting to updated business rules.
   - Collaborate with the business team to define tasks and determine their implementation approach.
   - Ensure development quality while introducing new approaches to enhance the development process.
+- **Technologies**: Java 17, Spring Boot, JPA, Liquibase, Elasticsearch 7, PostgreSQL 13, Lombok, MapStruct, JUnit, Docker, Testcontainer, RESTful API, IBM Cloud, Kubernetes, Vault, Jenkins, SonarQube, Renovate Boot, Angular 17, Javascript, NodeJS, Microservice, Git, GitLab.
 
 ### Senior Software Engineer - Trimble Transportation
 
@@ -64,6 +65,7 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
   - Mastered a versatile tech stack, including Java, Groovy, Spring Boot, NodeJS, NestJS, Kafka, Docker, Kubernetes, AWS, Elasticsearch, MongoDB, and MySQL, enabling the delivery of robust and scalable solutions.
   - Fostered team collaboration and cohesion, consistently delivering high-quality outcomes that exceeded customer expectations.
   - A detailed explanation of the product's functionality can be seen in the [PACCAR OTA](https://youtu.be/RGaNOLW6mVM?si=yn6Szv0rXs7idXF0) video.
+- **Technologies**: Java 8, Java 11, Groovy, Spring Boot, JPA, Liquibase, Elasticsearch, MySQL, MongoDB, RESTful API, Kafka, NodeJs, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless, AngularJS, React, Renovate Boot, Automation Test.
 
 ### Mid-level Software Engineer - Trimble Transportation
 
@@ -75,6 +77,7 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
   - Acted as a key representative of the software engineering team during large-scale and complex development projects, ensuring seamless communication and alignment with stakeholders.
   - Partnered with clients to define solution requirements and translate business needs into technical deliverables.
   - Provided mentorship and guidance to junior team members, fostering their professional growth and improving overall team performance.
+- **Technologies**: Java 8, Java 11, Groovy, Spring Boot, JPA, Liquibase, Elasticsearch, MySQL, MongoDB, RESTful API, Kafka, NodeJs, NestJS, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless, AngularJS, React, Renovate Boot, Automation Test.
 
 ### Junior Software Engineer - Trimble Transportation
 
@@ -85,6 +88,7 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
   - Implemented and optimized object-oriented programming models to enhance system performance.
   - Designed, developed, and maintained new features while identifying and resolving bugs to ensure system reliability.
   - Contributed to the creation and revision of technical documentation, ensuring clarity and accuracy for development and maintenance purposes.
+- **Technologies**: Java 8, Groovy, Spring Boot, JPA, Liquibase, Elasticsearch, MySQL, Kafka, NodeJs, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless, AngularJS.
 
 ### Junior Software Engineer - MKX Websites
 
@@ -94,7 +98,8 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
   - Utilize Scrum methodologies to stay organized prioritize tasks, and ensure timely delivery of projects.
   - Troubleshoot and fix bugs or issues identified in the online shops.
   - Assist in creating documentation for new features or modifications to existing features.
-  - Hands-on experience with PHP, Java, MySQL, Git HTML, CSS, and JavaScript.
+  - Hands-on experience with PHP, Java, MySQL, Git, HTML, CSS, and JavaScript.
+- **Technologies**: Java 8, PHP, Spring Boot, JPA, MySQL, NodeJs, HTML, CSS, JavaScript, Git, GitHub.
 
 ### Intern Software Engineer - MKX Websites
 
@@ -104,6 +109,7 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
   - Assist in the development of new online shops under the guidance of experienced software engineers.
   - Ensure seamless integration of online shops with various payment methods and marketplaces.
   - Collaborate with cross-functional teams to gather requirements and understand the business needs for the online shops.
+- **Technologies**: Java 8, PHP, Spring Boot, JPA, MySQL, NodeJs, HTML, CSS, JavaScript, Git, GitHub.
 
 ## Education
 
@@ -126,6 +132,9 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
 - Docker from Zero to Mastery - Containerization Demystified
 - NestJS: The Complete Developer's Guide
 - Docker and Kubernetes: The Complete Guide
+- Complete Algorithms Complexity and Big O Notation Course
+- Reactive Programming in Modern Java using Project Reactor
+- Apache Kafka Series - Learn Apache Kafka for Beginners v3
 
 ## Projects
 
@@ -134,7 +143,7 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
 - **Description**: I am passionate about traveling and love sharing my experiences and tips with fellow travelers. This passion led to the creation of **Feitos para Viajar (Made to Travel)**, a platform dedicated to providing insights, stories, and practical advice to inspire and support travelers worldwide.
   Launched in January 2024, this project combines my love for travel with innovative technology to develop solutions that make exploring the world easier and more accessible for everyone.
 
-- **Technologies used**: To build the website, I utilized a variety of technologies and frameworks. The frontend, developed with Next.js and React, is deployed on Vercel Cloud and incorporates Playwright and Testcontainers for robust automation testing. The backend is a Java 21 application deployed on AWS, leveraging serverless solutions such as API Gateway and Lambda functions for scalability and efficiency.
+- **Technologies used**: To build the website, I utilized a variety of technologies and frameworks. The frontend, developed with Next.js and React, is deployed on Vercel Cloud and incorporates Playwright and Testcontainers for robust automation testing. The backend is a Java 21 application deployed on AWS, leveraging serverless solutions such as API Gateway and Lambda functions for scalability and efficiency. The project incorporates GitHub Actions to automate the execution of unit tests and ensure code quality for every pull request and merge. This continuous integration setup helps maintain high standards throughout the development lifecycle.
 - **Link**: [Feitos para Viajar](https://www.feitosparaviajar.com.br/en)
 
 ### Articles
