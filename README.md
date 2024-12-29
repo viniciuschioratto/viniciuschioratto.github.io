@@ -28,18 +28,18 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
 
 ## Skills
 
-| Backend          | Frontend | Test             | Database      | Cloud  | Architecture           | Devops     |
-| ---------------- | -------- | ---------------- | ------------- | ------ | ---------------------- | ---------- |
-| Java             | React    | Unit Test        | MongoDB       | AWS    | Microservice           | Git        |
-| Spring Framework | NextJS   | Integration Test | MySQL         | IBM    | DDD                    | CI/CD      |
-| NodeJS           | Angular  | Automation Test  | Postgres      | Vercel | Hexagonal Architecture | Docker     |
-| Typescript       |          | TDD              | Elasticsearch |        |                        | Terraform  |
-| NestJS           |          | BDD              | H2            |        |                        | Jenkins    |
-| Kafka            |          |                  |               |        |                        | Buildkite  |
-|                  |          |                  |               |        |                        | Kubernetes |
-|                  |          |                  |               |        |                        | Datadog    |
-|                  |          |                  |               |        |                        | Grafana    |
-|                  |          |                  |               |        |                        |
+| Backend          | Frontend | Test             | Database      | Cloud  | Architecture              | Devops     |
+| ---------------- | -------- | ---------------- | ------------- | ------ | ------------------------- | ---------- |
+| Java             | React    | Unit Test        | MongoDB       | AWS    | Microservices             | Git        |
+| Spring Framework | NextJS   | Integration Test | MySQL         | IBM    | DDD                       | CI/CD      |
+| NodeJS           | Angular  | Automation Test  | Postgres      | Vercel | Hexagonal Architecture    | Docker     |
+| Typescript       |          | TDD              | Elasticsearch |        | Event-driven Architecture | Terraform  |
+| NestJS           |          | BDD              | H2            |        |                           | Jenkins    |
+| Kafka            |          |                  |               |        |                           | Buildkite  |
+| Restfull API     |          |                  |               |        |                           | Kubernetes |
+|                  |          |                  |               |        |                           | Datadog    |
+|                  |          |                  |               |        |                           | Grafana    |
+|                  |          |                  |               |        |                           |            |
 
 ## Work Experience
 
