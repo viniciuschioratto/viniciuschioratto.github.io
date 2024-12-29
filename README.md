@@ -10,6 +10,8 @@
 
 ## Contact Information
 
+<img src="./profile.jpeg" alt="Profile Picture" width="150" height="150">
+
 - **Name**: Vinicius Marques Chioratto
 - **Address**: Porto - Portugal
 - **Email**: viniciusmchioratto@gmail.com
