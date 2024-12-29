@@ -28,18 +28,15 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
 
 ## Skills
 
-| Backend          | Frontend | Test             | Database      | Cloud  | Architecture              | Devops     |
-| ---------------- | -------- | ---------------- | ------------- | ------ | ------------------------- | ---------- |
-| Java             | React    | Unit Test        | MongoDB       | AWS    | Microservices             | Git        |
-| Spring Framework | NextJS   | Integration Test | MySQL         | IBM    | DDD                       | CI/CD      |
-| NodeJS           | Angular  | Automation Test  | Postgres      | Vercel | Hexagonal Architecture    | Docker     |
-| Typescript       |          | TDD              | Elasticsearch |        | Event-driven Architecture | Terraform  |
-| NestJS           |          | BDD              | H2            |        |                           | Jenkins    |
-| Kafka            |          |                  |               |        |                           | Buildkite  |
-| Restfull API     |          |                  |               |        |                           | Kubernetes |
-|                  |          |                  |               |        |                           | Datadog    |
-|                  |          |                  |               |        |                           | Grafana    |
-|                  |          |                  |               |        |                           |            |
+| Category     | Technologies                                                                    |
+| ------------ | ------------------------------------------------------------------------------- |
+| Backend      | Java, Spring Framework, NodeJS, Typescript, NestJS, Kafka, Restfull API         |
+| Frontend     | React, NextJS, Angular                                                          |
+| Test         | Unit Test, Integration Test, Automation Test, TDD, BDD                          |
+| Database     | MongoDB, MySQL, Postgres, Elasticsearch, H2                                     |
+| Cloud        | AWS, IBM, Vercel                                                                |
+| Architecture | Microservices, DDD, Hexagonal Architecture, Event-driven Architecture           |
+| Devops       | Git, CI/CD, Docker, Terraform, Jenkins, Buildkite, Kubernetes, Datadog, Grafana |
 
 ## Work Experience
 
