@@ -48,10 +48,11 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
 - **Period**: 06/2024 - currently
 - **Location**: Remote for Madrid, Spain
 - **Responsibilities**:
-  - Lead a team of 4 developers, delivering effective solutions to challenges and supporting the team in overcoming blockers.
+  - Lead a team of 4 developers, delivering effective solutions and supporting the team in overcoming blockers.
+  - Lead the team in developing an internal library of reusable Angular components, designed to streamline and standardize development across multiple internal projects within the bank.
   - Migrate an internal bank product by implementing new technologies and adapting to updated business rules.
   - Collaborate with the business team to define tasks and determine their implementation approach.
-  - Ensure development quality while introducing new approaches to enhance the development process.
+  - Ensured high development quality by introducing innovative approaches to enhance the development process and mentoring the team to uphold best coding practices.
 - **Technologies**: Java 17, Spring Boot, JPA, Liquibase, Elasticsearch 7, PostgreSQL 13, Lombok, MapStruct, JUnit, Docker, Testcontainer, RESTful API, IBM Cloud, Kubernetes, Vault, Jenkins, SonarQube, Renovate Boot, Angular 17, Javascript, NodeJS, Microservice, Git, GitLab.
 
 ### Senior Software Engineer - Trimble Transportation
