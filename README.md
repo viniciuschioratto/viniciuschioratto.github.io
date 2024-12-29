@@ -1,26 +1,30 @@
 ## Table of Contents
 
+- [Contact Information](#contact-information)
 - [Professional Summary](#professional-summary)
 - [Skills](#skills)
 - [Work Experience](#work-experience)
 - [Education](#education)
-- [Certifications](#certifications)
 - [Projects](#projects)
 - [Languages](#languages)
-- [Interests](#interests)
-- [Contact Information](#contact-information)
+
+## Contact Information
+
+<img src="./profile.jpeg" alt="Profile Picture" width="150" height="150">
+
+- **Name**: Vinicius Marques Chioratto
+- **Address**: Porto - Portugal
+- **Email**: viniciusmchioratto@gmail.com
+- **Phone**: (+351) 91352-9762
+- **Github**: [viniciuschioratto](https://github.com/viniciuschioratto)
+- **LinkedIn**: [Vinicius Chioratto](https://www.linkedin.com/in/vinicius-chioratto)
+- **Citizenship**:
+  - Italian
+  - Brazilian
 
 ## Professional Summary
 
 I am a software engineer with a degree in Computer Science and over 6 years of experience in software development. My expertise lies in full-stack development, with a strong emphasis on back-end technologies such as Java, Spring Framework, and NodeJS, as well as front-end frameworks like React and Angular. I have a proven track record of delivering scalable and robust solutions, leveraging containerization tools like Docker and cloud platforms such as AWS to optimize performance and streamline deployments. My diverse experience enables me to adapt to various project requirements and drive technical excellence across the stack.
-
-## Education
-
-### Bachelor of Science | Computer Science
-
-- **Universty**: [State University of Londrina](https://portal.uel.br/conheca-a-uel/)
-- **Location**: Londrina, PR - Brazil
-- **Dates of Attendance**: 2014 - 2019
 
 ## Skills
 
@@ -101,14 +105,22 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
   - Ensure seamless integration of online shops with various payment methods and marketplaces.
   - Collaborate with cross-functional teams to gather requirements and understand the business needs for the online shops.
 
-## Certifications
+## Education
 
-### Aws
+### Bachelor of Science | Computer Science
+
+- **Universty**: [State University of Londrina](https://portal.uel.br/conheca-a-uel/)
+- **Location**: Londrina, PR - Brazil
+- **Dates of Attendance**: 2014 - 2019
+
+### Certifications
+
+#### AWS
 
 - **Certification**: [AWS Certified Cloud Practitioner](https://www.credly.com/badges/76fcbcf4-b675-40cf-b62e-f1c27b97394e/linked_in_profile)
 - **Period**: 10/2022 - 10/2025
 
-### Udemy
+#### Udemy
 
 - Spring Boot and React JS: Develop Complete Web Applications
 - Docker from Zero to Mastery - Containerization Demystified
@@ -117,31 +129,21 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
 
 ## Projects
 
-### Medium
+### Feitos para Viajar (Made to Travel)
 
-- **Description**: This project encompasses a collection of articles I'm writing for Medium, where I aim to share my expertise and insights with the broader community. These articles cover a diverse array of topics within the technology sector.
-- **Link**: [@viniciusmchioratto](https://medium.com/@viniciusmchioratto)
+- **Description**: I am passionate about traveling and love sharing my experiences and tips with fellow travelers. This passion led to the creation of **Feitos para Viajar (Made to Travel)**, a platform dedicated to providing insights, stories, and practical advice to inspire and support travelers worldwide.
+  Launched in January 2024, this project combines my love for travel with innovative technology to develop solutions that make exploring the world easier and more accessible for everyone.
 
-### Feitos para Viajar
-
-- **Description**: I am passionate about traveling and love sharing my experiences and tips with fellow travelers. This passion led to the creation of **Feitos para Viajar**, a blog where I can share insights, stories, and practical advice to inspire and assist others on their journeys.
 - **Technologies used**: To build the website, I utilized a variety of technologies and frameworks. The frontend, developed with Next.js and React, is deployed on Vercel Cloud and incorporates Playwright and Testcontainers for robust automation testing. The backend is a Java 21 application deployed on AWS, leveraging serverless solutions such as API Gateway and Lambda functions for scalability and efficiency.
 - **Link**: [Feitos para Viajar](https://www.feitosparaviajar.com.br/en)
-- **Release**: January - 2024
+
+### Articles
+
+- **Description**: This project encompasses a collection of articles I'm writing on Medium, where I aim to share my expertise and insights with the broader community. These articles cover a diverse array of topics within the technology sector.
+- **Link**: [@viniciusmchioratto](https://medium.com/@viniciusmchioratto)
 
 ## Languages
 
 - Portuguese - Native
 - English - Advanced
 - France - Beginner
-
-## Contact Information
-
-- **Citizenship**:
-  - Italian
-  - Brazilian
-- **Address**: Street Conde de Campo Bello - Porto - Portugal
-- **Email**: viniciusmchioratto@gmail.com
-- **Phone**: (+351) 91352-9762
-- **Github**: [viniciuschioratto](https://github.com/viniciuschioratto)
-- **LinkedIn**: [Vinicius Chioratto](https://www.linkedin.com/in/vinicius-chioratto)
