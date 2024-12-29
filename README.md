@@ -28,15 +28,15 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
 
 ## Skills
 
-| Category     | Technologies                                                                    |
-| ------------ | ------------------------------------------------------------------------------- |
-| Backend      | Java, Spring Framework, NodeJS, Typescript, NestJS, Kafka, Restfull API         |
-| Frontend     | React, NextJS, Angular                                                          |
-| Test         | Unit Test, Integration Test, Automation Test, TDD, BDD                          |
-| Database     | MongoDB, MySQL, Postgres, Elasticsearch, H2                                     |
-| Cloud        | AWS, IBM, Vercel                                                                |
-| Architecture | Microservices, DDD, Hexagonal Architecture, Event-driven Architecture           |
-| Devops       | Git, CI/CD, Docker, Terraform, Jenkins, Buildkite, Kubernetes, Datadog, Grafana |
+| Category     | Technologies                                                                                       |
+| ------------ | -------------------------------------------------------------------------------------------------- |
+| Backend      | Java, Spring Framework, NodeJS, Typescript, NestJS, Kafka, Restfull API                            |
+| Frontend     | React, NextJS, Angular                                                                             |
+| Test         | Unit Test, Integration Test, Automation Test, Test-driven development, Behavior Driven Development |
+| Database     | MongoDB, MySQL, Postgres, Elasticsearch, H2                                                        |
+| Cloud        | AWS, IBM, Vercel                                                                                   |
+| Architecture | Microservices, Domain-Driven Design, Hexagonal Architecture, Event-driven Architecture             |
+| Devops       | Git, CI/CD, Docker, Terraform, Jenkins, Buildkite, Kubernetes, Datadog, Grafana                    |
 
 ## Work Experience
 
