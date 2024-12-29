@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 
 - [Contact Information](#contact-information)
 - [Professional Summary](#professional-summary)
