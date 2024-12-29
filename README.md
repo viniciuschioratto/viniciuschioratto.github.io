@@ -120,7 +120,7 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
 ### Medium
 
 - **Description**: This project encompasses a collection of articles I'm writing for Medium, where I aim to share my expertise and insights with the broader community. These articles cover a diverse array of topics within the technology sector.
-- **Link**:
+- **Link**: [@viniciusmchioratto](https://medium.com/@viniciusmchioratto)
 
 ### Feitos para Viajar
 
