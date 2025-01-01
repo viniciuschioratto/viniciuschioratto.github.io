@@ -38,16 +38,14 @@ With a strong foundation in containerization tools like Docker, orchestration pl
 - **Period**: 06/2024 - currently
 - **Location**: Remote for Madrid, Spain
 - **Responsibilities**:
-  - Led a team of 4 developers to deliver high-quality solutions, including creating a reusable Angular component library, migrating internal banking products to modern technologies, collaborating with business teams to define implementation strategies, and mentoring the team to enhance processes and uphold best practices.
-- **Technologies**: Java 17, Spring Boot, Spring Security, Spring Data (JPA and Hibernate), Liquibase, Elasticsearch 7, PostgreSQL 13, Lombok, MapStruct, JUnit, Docker, Testcontainer, RESTful API, IBM Cloud, Kubernetes, Vault, Jenkins, SonarQube, Renovate Boot, Angular 17, Javascript, NodeJS, Microservice, Git, GitLab.
+  - Led a team of 4 developers in a banking project, focusing on back-end development with Java 17, Spring Project, PostgreSQL, Elasticsearch, and Kubernetes, while also creating a reusable component library in Angular and ensuring high-quality development for migrating a project to new technologies.
 
 ## Senior Software Engineer - Trimble Transportation
 
 - **Period**: 04/2022 - 05/2024
 - **Location**: Remote for Minnesota, USA
 - **Responsibilities**:
-  - Led the development of a transportation product used by over 500,000 trucks, collaborating with U.S.-based teams across time zones, solving technical challenges with agility and innovation, fostering team cohesion, and consistently delivering high-quality results; a detailed explanation of the product can be seen in the [PACCAR OTA](https://youtu.be/RGaNOLW6mVM?si=yn6Szv0rXs7idXF0) video.
-- **Technologies**: Java 8, Java 11, Groovy, Spring Boot, Spring Security, Spring Data (JPA and Hibernate), Liquibase, Elasticsearch, MySQL, MongoDB, RESTful API, Kafka, NodeJs, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless (Lambda functions, S3 Bucket, API Gateway, DynamoDB, SQS, SNS), AngularJS, React, Renovate Boot, Automation Test.
+  - Led the development of a product used by over 500,000 trucks, collaborating with U.S.-based teams, tackling technical challenges with innovation, and delivering scalable solutions using a versatile tech stack, including Java, Groovy, Spring Project, NodeJS, Kafka, Kubernetes, AWS, and databases like MongoDB and MySQL; a detailed explanation of the product can be seen in the [PACCAR OTA](https://youtu.be/RGaNOLW6mVM?si=yn6Szv0rXs7idXF0) video.
 
 ## Mid-level Software Engineer - Trimble Transportation
 
@@ -55,7 +53,6 @@ With a strong foundation in containerization tools like Docker, orchestration pl
 - **Location**: Remote for Minnesota, USA
 - **Responsibilities**:
   - Leveraged Kubernetes, Docker, and AWS to enhance infrastructure scalability, applied advanced technologies to deliver high-quality software, represented the engineering team in complex projects, collaborated with clients to define technical solutions, and mentored junior team members to boost team performance.
-- **Technologies**: Java 8, Java 11, Groovy, Spring Boot, Spring Security, Spring Data (JPA and Hibernate), Liquibase, Elasticsearch, MySQL, MongoDB, RESTful API, Kafka, NodeJs, NestJS, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless (Lambda functions, S3 Bucket, API Gateway, DynamoDB, SQS, SNS), AngularJS, React, Renovate Boot, Automation Test.
 
 ## Junior Software Engineer - Trimble Transportation
 
@@ -63,7 +60,6 @@ With a strong foundation in containerization tools like Docker, orchestration pl
 - **Location**: Remote for Minnesota, USA
 - **Responsibilities**:
   - Collaborated on system analysis and design, implemented optimized object-oriented models, developed and maintained features, resolved bugs to ensure reliability, and contributed to clear and accurate technical documentation.
-- **Technologies**: Java 8, Groovy, Spring Boot, Spring Security, Spring Data (JPA and Hibernate), Liquibase, Elasticsearch, MySQL, Kafka, NodeJs, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless(Lambda functions, S3 Bucket, API Gateway, DynamoDB, SQS, SNS), AngularJS.
 
 ## Junior Software Engineer - MKX Websites
 
@@ -71,7 +67,6 @@ With a strong foundation in containerization tools like Docker, orchestration pl
 - **Location**: Londrina, Brazil
 - **Responsibilities**:
   - Utilized Scrum methodologies to prioritize tasks and ensure timely project delivery, resolved bugs in online shops, and created documentation for new and updated features.
-- **Technologies**: Java 8, PHP, Spring Boot, JPA, MySQL, NodeJs, HTML, CSS, JavaScript, Git, GitHub.
 
 ## Intern Software Engineer - MKX Websites
 
@@ -79,7 +74,6 @@ With a strong foundation in containerization tools like Docker, orchestration pl
 - **Location**: Londrina, Brazil
 - **Responsibilities**:
   - Assisted in developing new online shops, ensured seamless integration with payment methods and marketplaces, and collaborated with cross-functional teams to gather requirements and understand business needs.
-- **Technologies**: Java 8, PHP, Spring Boot, JPA, MySQL, NodeJs, HTML, CSS, JavaScript, Git, GitHub.
 
 # Education
 

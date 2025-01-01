@@ -64,7 +64,6 @@ With a strong foundation in containerization tools like Docker, orchestration pl
   - Collaborated with U.S.-based teams, strengthening global communication skills and contributing to seamless product development across diverse time zones.
   - Tackled daily technical challenges with a focus on agility, innovation, and effective problem-solving.
   - Led the development of a product utilized by over 500,000 trucks, demonstrating impactful contributions to the transportation sector.
-  - Mastered a versatile tech stack, including Java, Groovy, Spring Boot, NodeJS, NestJS, Kafka, Docker, Kubernetes, AWS, Elasticsearch, MongoDB, and MySQL, enabling the delivery of robust and scalable solutions.
   - Fostered team collaboration and cohesion, consistently delivering high-quality outcomes that exceeded customer expectations.
   - A detailed explanation of the product's functionality can be seen in the [PACCAR OTA](https://youtu.be/RGaNOLW6mVM?si=yn6Szv0rXs7idXF0) video.
 - **Technologies**: Java 8, Java 11, Groovy, Spring Boot, Spring Security, Spring Data (JPA and Hibernate), Liquibase, Elasticsearch, MySQL, MongoDB, RESTful API, Kafka, NodeJs, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless (Lambda functions, S3 Bucket, API Gateway, DynamoDB, SQS, SNS), AngularJS, React, Renovate Boot, Automation Test.
