@@ -16,6 +16,7 @@
 - **Address**: Porto - Portugal
 - **Email**: viniciusmchioratto@gmail.com
 - **Phone**: (+351) 91352-9762
+- **Website**: [viniciuschioratto.github.io](https://viniciuschioratto.github.io/)
 - **Github**: [viniciuschioratto](https://github.com/viniciuschioratto)
 - **LinkedIn**: [Vinicius Chioratto](https://www.linkedin.com/in/vinicius-chioratto)
 - **Citizenship**:
@@ -24,19 +25,23 @@
 
 ## Professional Summary
 
-I am a software engineer with a degree in Computer Science and over 6 years of experience in software development. My expertise lies in full-stack development, with a strong emphasis on back-end technologies such as Java, Spring Framework, and NodeJS, as well as front-end frameworks like React and Angular. I have a proven track record of delivering scalable and robust solutions, leveraging containerization tools like Docker and cloud platforms such as AWS to optimize performance and streamline deployments. My diverse experience enables me to adapt to various project requirements and drive technical excellence across the stack.
+I am a software engineer with a degree in Computer Science and over 6 years of experience in software development, with a primary focus on back-end technologies. My expertise lies in Java and frameworks like the Spring Project, where I design and implement scalable, robust, and high-performance solutions. I also bring experience in front-end development using frameworks such as React and Angular, allowing me to contribute across the entire stack when needed.
+
+In addition to hands-on development, I have experience leading projects as a tech lead, guiding teams to deliver successful outcomes while ensuring technical quality. My skill set includes knowledge of testing techniques, DevOps practices, and software architecture, which I leverage to create reliable, maintainable, and efficient systems.
+
+With a strong foundation in containerization tools like Docker, orchestration platforms like Kubernetes, and cloud services like AWS, I deliver solutions that are optimized for performance and scalability, ensuring technical excellence and adaptability to diverse project requirements.
 
 ## Skills
 
-| Category     | Technologies                                                                                       |
-| ------------ | -------------------------------------------------------------------------------------------------- |
-| Backend      | Java, Spring Framework, NodeJS, Typescript, NestJS, Kafka, Restfull API                            |
-| Frontend     | React, NextJS, Angular                                                                             |
-| Test         | Unit Test, Integration Test, Automation Test, Test-driven development, Behavior Driven Development |
-| Database     | MongoDB, MySQL, Postgres, Elasticsearch, H2                                                        |
-| Cloud        | AWS, IBM, Vercel                                                                                   |
-| Architecture | Microservices, Domain-Driven Design, Hexagonal Architecture, Event-driven Architecture             |
-| Devops       | Git, CI/CD, Docker, Terraform, Jenkins, Buildkite, Kubernetes, Datadog, Grafana                    |
+| Category     | Technologies                                                                                                                                                                   |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Backend      | Java, OOP, Spring Boot, Spring Framework, Spring Data, Spring Security, Project Reactor, Project Lombok, MapStruct, Liquibase, NodeJS, Typescript, NestJS, Kafka, Restfull API |
+| Frontend     | React, NextJS, Angular                                                                                                                                                         |
+| Test         | Unit Test, Integration Test, Automation Test, Test-driven development, Behavior Driven Development, Playwright, Cucumber, Testcontainers, JUnit, Jest                          |
+| Database     | MongoDB, MySQL, Postgres, Elasticsearch, Amazon DynamoDB, H2                                                                                                                   |
+| Cloud        | AWS, IBM, Vercel                                                                                                                                                               |
+| Architecture | Microservices, Domain-Driven Design, Hexagonal Architecture, Event-driven Architecture                                                                                         |
+| Devops       | Git, CI/CD, Docker, Terraform, Jenkins, Buildkite, Kubernetes, Datadog, Grafana                                                                                                |
 
 ## Work Experience
 
@@ -50,7 +55,7 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
   - Migrate an internal bank product by implementing new technologies and adapting to updated business rules.
   - Collaborate with the business team to define tasks and determine their implementation approach.
   - Ensured high development quality by introducing innovative approaches to enhance the development process and mentoring the team to uphold best coding practices.
-- **Technologies**: Java 17, Spring Boot, JPA, Liquibase, Elasticsearch 7, PostgreSQL 13, Lombok, MapStruct, JUnit, Docker, Testcontainer, RESTful API, IBM Cloud, Kubernetes, Vault, Jenkins, SonarQube, Renovate Boot, Angular 17, Javascript, NodeJS, Microservice, Git, GitLab.
+- **Technologies**: Java 17, Spring Boot, Spring Security, Spring Data (JPA and Hibernate), Liquibase, Elasticsearch 7, PostgreSQL 13, Lombok, MapStruct, JUnit, Docker, Testcontainer, RESTful API, IBM Cloud, Kubernetes, Vault, Jenkins, SonarQube, Renovate Boot, Angular 17, Javascript, NodeJS, Microservice, Git, GitLab.
 
 ### Senior Software Engineer - Trimble Transportation
 
@@ -63,7 +68,7 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
   - Mastered a versatile tech stack, including Java, Groovy, Spring Boot, NodeJS, NestJS, Kafka, Docker, Kubernetes, AWS, Elasticsearch, MongoDB, and MySQL, enabling the delivery of robust and scalable solutions.
   - Fostered team collaboration and cohesion, consistently delivering high-quality outcomes that exceeded customer expectations.
   - A detailed explanation of the product's functionality can be seen in the [PACCAR OTA](https://youtu.be/RGaNOLW6mVM?si=yn6Szv0rXs7idXF0) video.
-- **Technologies**: Java 8, Java 11, Groovy, Spring Boot, JPA, Liquibase, Elasticsearch, MySQL, MongoDB, RESTful API, Kafka, NodeJs, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless, AngularJS, React, Renovate Boot, Automation Test.
+- **Technologies**: Java 8, Java 11, Groovy, Spring Boot, Spring Security, Spring Data (JPA and Hibernate), Liquibase, Elasticsearch, MySQL, MongoDB, RESTful API, Kafka, NodeJs, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless (Lambda functions, S3 Bucket, API Gateway, DynamoDB, SQS, SNS), AngularJS, React, Renovate Boot, Automation Test.
 
 ### Mid-level Software Engineer - Trimble Transportation
 
@@ -75,7 +80,7 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
   - Acted as a key representative of the software engineering team during large-scale and complex development projects, ensuring seamless communication and alignment with stakeholders.
   - Partnered with clients to define solution requirements and translate business needs into technical deliverables.
   - Provided mentorship and guidance to junior team members, fostering their professional growth and improving overall team performance.
-- **Technologies**: Java 8, Java 11, Groovy, Spring Boot, JPA, Liquibase, Elasticsearch, MySQL, MongoDB, RESTful API, Kafka, NodeJs, NestJS, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless, AngularJS, React, Renovate Boot, Automation Test.
+- **Technologies**: Java 8, Java 11, Groovy, Spring Boot, Spring Security, Spring Data (JPA and Hibernate), Liquibase, Elasticsearch, MySQL, MongoDB, RESTful API, Kafka, NodeJs, NestJS, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless (Lambda functions, S3 Bucket, API Gateway, DynamoDB, SQS, SNS), AngularJS, React, Renovate Boot, Automation Test.
 
 ### Junior Software Engineer - Trimble Transportation
 
@@ -86,7 +91,7 @@ I am a software engineer with a degree in Computer Science and over 6 years of e
   - Implemented and optimized object-oriented programming models to enhance system performance.
   - Designed, developed, and maintained new features while identifying and resolving bugs to ensure system reliability.
   - Contributed to the creation and revision of technical documentation, ensuring clarity and accuracy for development and maintenance purposes.
-- **Technologies**: Java 8, Groovy, Spring Boot, JPA, Liquibase, Elasticsearch, MySQL, Kafka, NodeJs, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless, AngularJS.
+- **Technologies**: Java 8, Groovy, Spring Boot, Spring Security, Spring Data (JPA and Hibernate), Liquibase, Elasticsearch, MySQL, Kafka, NodeJs, Docker, Kubernetes, Terraform, AWS Cloud, AWS Serverless(Lambda functions, S3 Bucket, API Gateway, DynamoDB, SQS, SNS), AngularJS.
 
 ### Junior Software Engineer - MKX Websites
 
